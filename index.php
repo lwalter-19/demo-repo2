@@ -9,6 +9,7 @@
     include_once 'plantillas/navbar.inc.php';
 ?>
 
+<!-- SIMPLEMENTE PUSIMO UN COMENTARIO A NUESTRO DOCUMENTO INDEX.PHP -->
 <div class="container">
     <div class="jumbotron">
         <h1>Suscribete a mi canal y aprende más</h1>
