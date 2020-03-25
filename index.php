@@ -3,7 +3,7 @@
     include_once 'app/Conexion.inc.php';
     include_once 'app/RepositorioUsuario.inc.php';
     
-    $titulo = "Blog De JavaDevOne";
+    $titulo = "MitoCode";
     
     include_once 'plantillas/documento-inicio.inc.php';
     include_once 'plantillas/navbar.inc.php';
@@ -11,7 +11,7 @@
 
 <div class="container">
     <div class="jumbotron">
-        <h1>Blog De JavaDevOne</h1>
+        <h1>Suscribete a mi canal y aprende más</h1>
         <p>Blog dedicado a la programacion Web</p>
     </div>
 </div>
