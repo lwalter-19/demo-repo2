@@ -1,0 +1,50 @@
+*{
+    margin: 0em;
+    padding: 0em;
+}
+
+body{
+    background-color: #6e6f62;
+    background-image: url('../img/textura.jpg');
+}
+
+.jumbotron{
+    background-color: #265c00;
+    color: #F60;
+}
+
+.jumbotron p{
+    color: #FDFFFF;
+}
+
+.navbar{
+    background-color: #265c00;
+}
+
+#navbar li a:link, #navbar li a:visited{
+    color: #FDFFFF !important;
+}
+
+#navbar li a:hover, #navbar li a:active{
+    color: #f60 !important;
+}
+
+.panel-heading{
+    background-color: #265c00 !important;
+    color: #FFFFFF !important;
+}
+
+/** SEUDOR NORMAS DE LOS ENLACES 
+    :LINK
+    :VISITED
+    :HOVER
+    :ACTIVE
+*/
+
+.navbar-brand:link, .navbar-brand:visited{
+    color: #F60 !important;
+}
+
+.navbar-brand:hover, .navbar-brand:active{
+    color: #FDFFFF !important;
+}
